@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "URL Formater",
+  "version": "1.0",
+  "description": "Convert URL and Title to Various Formats"
+}
