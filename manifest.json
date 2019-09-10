@@ -2,5 +2,16 @@
   "manifest_version": 2,
   "name": "URL Formater",
   "version": "1.0",
-  "description": "Convert URL and Title to Various Formats"
+  "description": "Convert URL and Title to Various Formats",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "icons" : {
+    "128": "icon.png"
+  }
 }
+
